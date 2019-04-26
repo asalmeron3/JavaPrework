@@ -25,8 +25,4 @@
 
 8. Change directories back into "prework" and open the current folder.
 
-<<<<<<< HEAD:module3.md
   cd Desktop/prework
-=======
-  cd Desktop/prework
->>>>>>> 431a08b41a633968c50a84d340e652c654d0ce9e:Terminal_&_GitBash_Prework_Assignment.md
