@@ -2,27 +2,27 @@
 
 2. Write the command to navigate to the Home Directory.
   
-  cd ~
+  - cd ~
 
 3. Change directories to your Desktop.
   
-  cd Desktop
+  - cd Desktop
 
 4. Make a new directory called, "prework", and change into that directory.
-  mkdir prework
+  - mkdir prework
 
 5. Create a new file called, "index.html" and list out every file/folder within "prework".
 
-  touch index.html
+  - touch index.html
 
 6. Change directories back to home.
 
-  cd ~
+  - cd ~
 
 7. Type the command to show the current working directory.
 
-  pwd
+  - pwd
 
 8. Change directories back into "prework" and open the current folder.
 
-  cd Desktop/prework
+  - cd Desktop/prework
